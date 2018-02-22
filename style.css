@@ -1,0 +1,35 @@
+body {
+  background: url('http://static1.squarespace.com/static/547d3a0fe4b009320b6915e1/t/54c7465be4b080f91c82df1f/1422345819989/Bar+35_hero_06+top+bar.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.ui.borderless.inverted.topmenu.menu {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+.item {
+  color: white;
+}
+
+.ui.centered.grid {
+  padding-top: 50px;
+
+}
+
+.ui.text.container {
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.ui.centered.grid.container {
+  width: 160px;
+}
+
+img {
+  width: 247px;
+  height: 130px;
+}
+
